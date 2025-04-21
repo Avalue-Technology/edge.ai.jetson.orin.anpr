@@ -6,6 +6,6 @@ Applicable to the AIB-NINX series products, it incorporates NVIDIA Jetson Orinâ„
 The Tutorial Code was made by Visual Studio Code Version:1.97.2. Please make sure your development environment is matched.
 ![image](https://github.com/user-attachments/assets/f98240ab-ebd6-4a4a-b7e1-8de8cac322de)
 # Execution Screenshot
-![carDemo](https://github.com/user-attachments/assets/9766cea0-1aeb-4912-be29-b912ad4ef8d6)
+![carDemo](https://github.com/user-attachments/assets/50bc4301-88ff-4f32-b154-8bd193c8eb42)
 # Refreence
 
